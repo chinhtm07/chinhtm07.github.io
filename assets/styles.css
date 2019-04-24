@@ -92,6 +92,9 @@ section:last-child {
   font-size: 14px;
   margin-bottom: 15px;
 }
+section > ul {
+  padding-left: 20px;
+}
 ul li {
   margin-bottom: 10px;
 }
